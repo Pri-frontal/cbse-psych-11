@@ -48,5 +48,5 @@ Aarav is consistently described by teachers as soft-spoken, empathetic, and aver
 
 ### ⚖️ Kurt Lewin's Field Theory & $B = f(P,E)$
 * **Foundational Text:** Lewin, K. (1936). ["Principles of Topological Psychology"](https://archive.org/details/principlesoftopo00lewirich) — The original text introducing field theory and how psychological life space determines human behavior.
-* **Article:** Psychology Notes HQ: ["Kurt Lewin’s Field Theory: The Equation Psych Students Get Wrong"](https://www.psychologynoteshq.com/psychological-field-theory/) — A deep dive into why behavior cannot be blamed solely on fixed traits ($P$) without accounting for the situational environment ($E$).
+* **Article:** Psychology Notes HQ: ["Kurt Lewin’s Field Theory: The Equation Psych Students Get Wrong"](https://www.psychologynoteshq.com/psychological-field-theory/) — A deep dive into why behavior cannot be blamed solely on fixed traits ($P$) without accounting for the situational environment($E$).
 * **YouTube Video:** CrashCourse Psychology: ["Social Thinking: Crash Course Psychology #37"](https://www.youtube.com/watch?v=h6HLDV0T5Q8) — Explains situational vs. dispositional attributions and how modern social psychology views human actions as context-dependent reactions.
